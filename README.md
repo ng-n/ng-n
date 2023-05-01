@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## Cloud / DevOps Engineer
 > ex-Software Engineer (switching career)
+
 💻 I'm currently looking for a Cloud Engineer or DevOps Engineer role in the AWS domain.
 
 ### A bit about me:
