@@ -12,14 +12,16 @@
 🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
 
 ### My Tech Stack
+> not limited to
 - AWS
 - CloudFormation (IaC)
 - Docker
 - Kubernetes
 - Ansible
-- Git
+- Git, GitHub Actions
 - C, C++, Python, Jave (_basic_) and Go (_basic_)
 - Linux 
+- Slack, Microsoft Team, Jira, etc.
 
 
 🌎 Check my [LinkedIn page](https://linkedin.com/in/anastasiia-gubska) for my resume.
