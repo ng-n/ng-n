@@ -9,9 +9,9 @@
 
 🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
 
-🌎 Check my resume
+🌎 Check my [LinkedIn page](https://linkedin.com/in/anastasiia-gubska) for my resume.
 
-📫 How to reach me: 
+📫 How to reach me: InMail
 <!--
 **ng-n/ng-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
