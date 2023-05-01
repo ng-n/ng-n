@@ -11,7 +11,7 @@
 
 🌎 Check my [LinkedIn page](https://linkedin.com/in/anastasiia-gubska) for my resume.
 
-📫 How to reach me: InMail
+📫 How to reach me: [InMail](https://linkedin.com/in/anastasiia-gubska)
 <!--
 **ng-n/ng-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
