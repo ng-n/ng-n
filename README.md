@@ -4,7 +4,7 @@
 
 ### A bit about me:
 - Deaf
-= Hobbies: Yoga, Teaching
+- Hobbies: Yoga, Teaching, Languages
 - Current location: 📍 United Kingdom
 
 🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
