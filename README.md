@@ -2,7 +2,7 @@
 ## Cloud / DevOps Engineer
 💻 I'm currently looking for a Cloud Engineer or DevOps Engineer role in the AWS domain.
 
-## A bit about me:
+### A bit about me:
 - Deaf
 = Hobbies: Yoga, Teaching
 - Current location: 📍 United Kingdom
