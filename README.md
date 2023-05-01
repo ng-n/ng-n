@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## Cloud / DevOps Engineer
+> ex-Software Engineer (switching career)
 💻 I'm currently looking for a Cloud Engineer or DevOps Engineer role in the AWS domain.
 
 ### A bit about me:
@@ -9,6 +10,9 @@
 
 🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
 
+### My Tech Stack
+- AWS
+- Git
 🌎 Check my [LinkedIn page](https://linkedin.com/in/anastasiia-gubska) for my resume.
 
 📫 How to reach me: [InMail](https://linkedin.com/in/anastasiia-gubska)
