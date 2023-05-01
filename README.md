@@ -8,6 +8,7 @@
 - Deaf
 - Hobbies: Yoga, Teaching, Languages and Travelling 🏕
 - Current location: 📍 United Kingdom
+- AWS Certified Cloud Practitioner (2022)
 
 🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
 
