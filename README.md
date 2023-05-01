@@ -24,6 +24,7 @@
 - Slack, Microsoft Team, Jira, etc.
 
 
+
 🌎 Check my [LinkedIn page](https://linkedin.com/in/anastasiia-gubska) for my resume.
 
 📫 How to reach me: [InMail](https://linkedin.com/in/anastasiia-gubska)
