@@ -12,7 +12,6 @@
 🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
 
 ### My Tech Stack
-> not limited to
 - AWS
 - CloudFormation (IaC)
 - Docker
