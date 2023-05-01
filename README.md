@@ -13,7 +13,15 @@
 
 ### My Tech Stack
 - AWS
+- CloudFormation (IaC)
+- Docker
+- Kubernetes
+- Ansible
 - Git
+- C, C++, Python, Jave (_basic_) and Go (_basic_)
+- Linux 
+
+
 🌎 Check my [LinkedIn page](https://linkedin.com/in/anastasiia-gubska) for my resume.
 
 📫 How to reach me: [InMail](https://linkedin.com/in/anastasiia-gubska)
