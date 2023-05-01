@@ -7,7 +7,7 @@
 = Hobbies: Yoga, Teaching
 - Current location: 📍 United Kingdom
 
-🌱 I’m currently learning Docker, Kubernetes, GCP and 
+🌱 I’m currently learning Docker, Kubernetes, GCP and CI/CD.
 
 🌎 Check my resume
 
